@@ -22,7 +22,7 @@ import java.util.Optional;
 public class MainController {
 
     @FXML
-    BorderPane mainPane;
+    BorderPane mainPane; //uploading panel from FXML
 
 
     private Tile[][] grid = new Tile[20][20];
